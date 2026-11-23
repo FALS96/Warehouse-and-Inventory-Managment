@@ -89,10 +89,14 @@ The script can be run manually or via scheduled tasks using:
 This method enables automated report preparation and minimizes repetitive manual tasks
 
 # *Preview* #
+
+Order picking
 <img width="887" height="543" alt="image" src="https://github.com/user-attachments/assets/27ad4b9d-c525-4089-9f10-49af325c73d8" />
 
+DAX and data modeling
 <img width="1363" height="573" alt="image" src="https://github.com/user-attachments/assets/67c84ed0-a545-4ca6-a680-51990ce9146f" />
 
+Inbound raw materials
 <img width="896" height="552" alt="image" src="https://github.com/user-attachments/assets/980feebe-fca0-4dc5-bc6b-ed77fc839fe6" />
 
 # *Key Skills Demonstrated* #
