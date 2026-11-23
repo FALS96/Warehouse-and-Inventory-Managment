@@ -120,7 +120,7 @@ Inbound raw materials
 - The volume of orders processed **increased from 120 to 180 orders, generating a 50% increase in operational throughput**.
 - The average **picking time per order was reduced from 3 minutes to 1 minute, representing an approximate 66.7% improvement in process efficiency**.
 - With the same team of 4 pickers operating 12-hour shifts, **processing capacity increased by 60 additional orders per day**.
-- Considering an average value of USD $5 per order, **the processed value increased from USD $600 to USD $900 per day, equivalent to an increase of USD $300 (+50%)**.
+- Considering an average value of USD $5 per order, **the processed value increased from USD $600 to USD $900 per day, equivalent to an increase of USD $300 (+50%) per collaborator**.
 
 Centralizing operational KPIs allowed for:
 
