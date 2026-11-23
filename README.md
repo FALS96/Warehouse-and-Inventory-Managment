@@ -1,12 +1,12 @@
 # Dashboard for Warehouse and Inventory Management and Balancing Focused on Productivity #
 
-Project Overview
+*Project Overview*
 
 Interactive Power BI dashboard designed to monitor all warehouse operations, inventory performance, and productivity metrics through a centralized analytical view.
 
 The solution consolidates operational data into a single dashboard, enabling faster decision-making and greater visibility into key warehouse performance indicators. Specifically, it provides greater control over operational resources hired during peak seasons (due to events like Black Friday, Cyber ​​Monday, Christmas, and Singles' Day) or during off-peak seasons.
 
-business Objective
+*Business Objective*
 
 Warehouse leaders typically need quick access to visually simple, real-time operational metrics for daily decision-making, with a strong focus on hard data to ensure the best choices.
 
@@ -18,7 +18,7 @@ This dashboard was developed to:
 - Identify capacity constraints
 - Improve visibility of inventory-related activities
 
-Dashboard Features
+*Dashboard Features*
 
 Fully interactive, real-time data management by:
 
@@ -27,7 +27,7 @@ Fully interactive, real-time data management by:
 - Product
 - Shift
 
-Operational Key Performance Indicators (KPIs)
+*Operational Key Performance Indicators (KPIs)*
 
 - Orders processed
 - Hourly productivity (by user and shift)
@@ -37,7 +37,7 @@ Operational Key Performance Indicators (KPIs)
 - Operational efficiency metrics
 - Current maximum capacity
 
-Interactive Analysis
+*Interactive Analysis*
 
 - Dynamic filtering
 - Detailed exploration
@@ -45,7 +45,7 @@ Interactive Analysis
 - Performance comparison
 - Operational monitoring
 
-Tools and Technologies
+*Tools and Technologies*
 
 - Power BI
 - DAX
@@ -55,7 +55,7 @@ Tools and Technologies
 - Data modeling
 - Visualization Data
 
-Repository Content
+*Repository Content*
 
 Dashboard Management Inventory.pbix
 #Main Power BI report containing:
@@ -86,7 +86,7 @@ This method enables automated report preparation and minimizes repetitive manual
 
 <img width="896" height="552" alt="image" src="https://github.com/user-attachments/assets/980feebe-fca0-4dc5-bc6b-ed77fc839fe6" />
 
-Key Skills Demonstrated
+*Key Skills Demonstrated*
 
 - Business Intelligence
 - Data Analysis
@@ -100,7 +100,7 @@ Key Skills Demonstrated
 - Automation with Python
 - Operational Reporting
 
-Potential Business Insight
+*Potential Business Insight*
 
 This solution demonstrates how business intelligence tools can be used to:
 
