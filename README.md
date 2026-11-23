@@ -1,12 +1,12 @@
 # Dashboard for Warehouse and Inventory Management and Balancing Focused on Productivity #
 
-*Project Overview*
+# *Project Overview* #
 
 Interactive Power BI dashboard designed to monitor all warehouse operations, inventory performance, and productivity metrics through a centralized analytical view.
 
 The solution consolidates operational data into a single dashboard, enabling faster decision-making and greater visibility into key warehouse performance indicators. Specifically, it provides greater control over operational resources hired during peak seasons (due to events like Black Friday, Cyber ​​Monday, Christmas, and Singles' Day) or during off-peak seasons.
 
-*Business Objective*
+# *Business Objective* #
 
 Warehouse leaders typically need quick access to visually simple, real-time operational metrics for daily decision-making, with a strong focus on hard data to ensure the best choices.
 
