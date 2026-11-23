@@ -52,7 +52,9 @@ Fully interactive, real-time data management by:
 - Power BI
 - DAX
 - Power Query
-- Python
+- SAP Data extraction
+- Customize SAP layout configuration
+- Python-based automation
 - CSV data sources
 - Data modeling
 - Visualization Data
@@ -92,6 +94,7 @@ This method enables automated report preparation and minimizes repetitive manual
 # *Key Skills Demonstrated* #
 
 - Business Intelligence
+- SAP ERP
 - Data Analysis
 - KPI Development
 - Data Visualization
