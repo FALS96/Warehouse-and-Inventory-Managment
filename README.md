@@ -20,6 +20,10 @@ This dashboard was developed to:
 - Identify capacity constraints
 - Improve visibility of inventory-related activities
 
+# *Solution Architecture* #
+
+<img width="211" height="384" alt="image" src="https://github.com/user-attachments/assets/2b5680cd-f1c1-4439-a63f-7e260bf1cf55" />
+
 # *Dashboard Features* #
 
 Fully interactive, real-time data management by:
@@ -127,5 +131,6 @@ Professional Interests:
 - Supply Chain Analysis
 - Warehouse Operations
 - Inventory Management
+- Data Engineer
 - Process Automation
 - Inventory Control Supervisor
