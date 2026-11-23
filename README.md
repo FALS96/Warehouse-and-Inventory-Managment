@@ -1,4 +1,4 @@
-# Dashboard for Warehouse and Inventory Management #
+# DASHBOARD FOR WAREHOUSE AND INVENTORY MANAGEMENT #
 
 # *Project Overview* #
 
@@ -18,7 +18,7 @@ This dashboard was developed to:
 - Identify capacity constraints
 - Improve visibility of inventory-related activities
 
-*Dashboard Features*
+# *Dashboard Features* #
 
 Fully interactive, real-time data management by:
 
@@ -27,7 +27,7 @@ Fully interactive, real-time data management by:
 - Product
 - Shift
 
-*Operational Key Performance Indicators (KPIs)*
+# *Operational Key Performance Indicators (KPIs)* #
 
 - Orders processed
 - Hourly productivity (by user and shift)
@@ -37,7 +37,7 @@ Fully interactive, real-time data management by:
 - Operational efficiency metrics
 - Current maximum capacity
 
-*Interactive Analysis*
+# *Interactive Analysis* #
 
 - Dynamic filtering
 - Detailed exploration
@@ -45,7 +45,7 @@ Fully interactive, real-time data management by:
 - Performance comparison
 - Operational monitoring
 
-*Tools and Technologies*
+# *Tools and Technologies* #
 
 - Power BI
 - DAX
@@ -55,7 +55,7 @@ Fully interactive, real-time data management by:
 - Data modeling
 - Visualization Data
 
-*Repository Content*
+# *Repository Content* #
 
 Dashboard Management Inventory.pbix
 #Main Power BI report containing:
@@ -80,13 +80,14 @@ The script can be run manually or via scheduled tasks using:
 
 This method enables automated report preparation and minimizes repetitive manual tasks#
 
+# "Preview" #
 <img width="887" height="543" alt="image" src="https://github.com/user-attachments/assets/27ad4b9d-c525-4089-9f10-49af325c73d8" />
 
 <img width="1363" height="573" alt="image" src="https://github.com/user-attachments/assets/67c84ed0-a545-4ca6-a680-51990ce9146f" />
 
 <img width="896" height="552" alt="image" src="https://github.com/user-attachments/assets/980feebe-fca0-4dc5-bc6b-ed77fc839fe6" />
 
-*Key Skills Demonstrated*
+# *Key Skills Demonstrated* #
 
 - Business Intelligence
 - Data Analysis
@@ -100,7 +101,7 @@ This method enables automated report preparation and minimizes repetitive manual
 - Automation with Python
 - Operational Reporting
 
-*Potential Business Insight*
+# *Potential Business Insight* #
 
 This solution demonstrates how business intelligence tools can be used to:
 
