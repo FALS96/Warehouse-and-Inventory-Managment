@@ -1,5 +1,7 @@
 # DASHBOARD FOR WAREHOUSE AND INVENTORY MANAGEMENT #
 
+<img width="891" height="54" alt="image" src="https://github.com/user-attachments/assets/94f5fc62-6a99-4272-ad81-a74d2803e7d4" />
+
 # *Project Overview* #
 
 Interactive Power BI dashboard designed to monitor all warehouse operations, inventory performance, and productivity metrics through a centralized analytical view.
@@ -8,7 +10,7 @@ The solution consolidates operational data into a single dashboard, enabling fas
 
 # *Business Objective* #
 
-Warehouse leaders typically need quick access to visually simple, real-time operational metrics for daily decision-making, with a strong focus on hard data to ensure the best choices.
+Warehouse leaders typically need quick access to visual, real-time operational metrics for daily decision-making, with a strong focus on objective data to ensure the best decisions, aiming to eliminate downtime, poor operational performance, and prepare for ISO 13485 certification.
 
 This dashboard was developed to:
 
