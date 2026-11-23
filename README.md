@@ -1,4 +1,4 @@
-# Dashboard for Warehouse and Inventory Management and Balancing Focused on Productivity #
+# Dashboard for Warehouse and Inventory Management #
 
 # *Project Overview* #
 
