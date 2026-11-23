@@ -125,7 +125,7 @@ This solution demonstrates how business intelligence tools can be used to:
 - Monitor warehouse performance using interactive dashboards
 - Optimize resource allocation for human capital
 
-# Author #
+# About the Author #
 *Lira Felix*
 
 Professional Interests:
