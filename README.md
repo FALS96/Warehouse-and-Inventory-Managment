@@ -14,11 +14,11 @@ Warehouse leaders typically need quick access to visual, real-time operational m
 
 This dashboard was developed to:
 
-- Monitor warehouse productivity
-- Track operational performance
-- Analyze processing trends
-- Identify capacity constraints
-- Improve visibility of inventory-related activities
+- Monitor warehouse productivity.
+- Track operational performance.
+- Analyze processing trends.
+- Identify capacity constraints.
+- Improve visibility of inventory-related activities.
 
 # *Solution Architecture* #
 
@@ -28,65 +28,65 @@ This dashboard was developed to:
 
 Fully interactive, real-time data management by:
 
-- Hours
-- Users
-- Product
-- Shift
+- Hours.
+- Users.
+- Product.
+- Shift.
 
 # *Operational Key Performance Indicators (KPIs)* #
 
-- Orders processed
+- Orders processed.
 - Hourly productivity (by user and shift)
-- Processing throughput
-- Total volume processed
-- Performance trends
-- Operational efficiency metrics
-- Current maximum capacity
+- Processing throughput.
+- Total volume processed.
+- Performance trends.
+- Operational efficiency metrics.
+- Current maximum capacity.
 
 # *Interactive Analysis* #
 
-- Dynamic filtering
-- Detailed exploration
-- Trend analysis
-- Performance comparison
-- Operational monitoring
+- Dynamic filtering.
+- Detailed exploration.
+- Trend analysis.
+- Performance comparison.
+- Operational monitoring.
 
 # *Tools and Technologies* #
 
-- Power BI
-- DAX
-- Power Query
-- SAP Data extraction
-- Customize SAP layout configuration
-- Python-based automation
-- CSV data sources
-- Data modeling
-- Visualization Data
+- Power BI.
+- DAX.
+- Power Query.
+- SAP Data extraction.
+- Customize SAP layout configuration.
+- Python-based automation.
+- CSV data sources.
+- Data modeling.
+- Visualization Data.
 
 # *Repository Content* #
 
 Dashboard Management Inventory.pbix
 Main Power BI report containing:
-- Data model
-- Measures
-- Calculated columns
-- KPI visualizations
-- Interactive reports#
+- Data model.
+- Measures.
+- Calculated columns.
+- KPI visualizations.
+- Interactive reports.
 
 RX_RS_RP_ProductivityReport.csv
-Dataset used for dashboard development and performance analysis
+Dataset used for dashboard development and performance analysis.
 
 Final Script Dash_Management_Inventory.py
 Optional Python automation script designed to facilitate extracting, transforming, and updating dashboard data.
 
 The script can be run manually or via scheduled tasks using:
 
-- Windows Task Scheduler
-- PowerShell
-- Command Prompt
-- Windows Terminal
+- Windows Task Scheduler.
+- PowerShell.
+- Command Prompt.
+- Windows Terminal.
 
-This method enables automated report preparation and minimizes repetitive manual tasks
+This method enables automated report preparation and minimizes repetitive manual tasks.
 
 # *Preview* #
 
@@ -101,28 +101,26 @@ Inbound raw materials
 
 # *Key Skills Demonstrated* #
 
-- Business Intelligence
-- SAP ERP
-- Data Analysis
-- KPI Development
-- Data Visualization
-- Inventory Analysis
-- Warehouse Operations Analysis
-- Power BI Development
-- Data Modeling
-- Process Automation
-- Automation with Python
-- Operational Reporting
+- Business Intelligence.
+- SAP ERP.
+- Data Analysis.
+- KPI Development.
+- Data Visualization.
+- Inventory Analysis.
+- Warehouse Operations Analysis.
+- Power BI Development.
+- Data Modeling.
+- Process Automation.
+- Automation with Python.
+- Operational Reporting.
 
 # *Potential Business Insight* #
 
-This solution demonstrates how business intelligence tools can be used to:
-
-- Operational visibility enabled a 50% increase in picking throughput.
-- The volume of orders processed increased from 120 to 180 orders, generating a 50% increase in operational throughput.
-- The average picking time per order was reduced from 3 minutes to 1 minute, representing an approximate 66.7% improvement in process efficiency.
-- With the same team of 4 pickers operating 12-hour shifts, processing capacity increased by 60 additional orders per day.
-- Considering an average value of USD $5 per order, the processed value increased from USD $600 to USD $900 per day, equivalent to an increase of USD $300 (+50%).
+- Operational visibility enabled a **50% increase in picking throughput.**
+- The volume of orders processed **increased from 120 to 180 orders, generating a 50% increase in operational throughput**.
+- The average **picking time per order was reduced from 3 minutes to 1 minute, representing an approximate 66.7% improvement in process efficiency**.
+- With the same team of 4 pickers operating 12-hour shifts, **processing capacity increased by 60 additional orders per day**.
+- Considering an average value of USD $5 per order, **the processed value increased from USD $600 to USD $900 per day, equivalent to an increase of USD $300 (+50%)**.
 
 Centralizing operational KPIs allowed for:
 
@@ -137,11 +135,11 @@ Centralizing operational KPIs allowed for:
 
 Professional Interests:
 
-- Business Intelligence
-- Data Analysis
-- Supply Chain Analysis
-- Warehouse Operations
-- Inventory Management
-- Data Engineer
-- Process Automation
-- Inventory Control Supervisor
+- Business Intelligence.
+- Data Analysis.
+- Supply Chain Analysis.
+- Warehouse Operations.
+- Inventory Management.
+- Data Engineer.
+- Process Automation.
+- Inventory Control Supervisor.
