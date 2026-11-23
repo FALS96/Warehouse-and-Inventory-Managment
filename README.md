@@ -58,7 +58,7 @@ Fully interactive, real-time data management by:
 # *Repository Content* #
 
 Dashboard Management Inventory.pbix
-#Main Power BI report containing:
+Main Power BI report containing:
 - Data model
 - Measures
 - Calculated columns
@@ -66,10 +66,10 @@ Dashboard Management Inventory.pbix
 - Interactive reports#
 
 RX_RS_RP_ProductivityReport.csv
-#Dataset used for dashboard development and performance analysis#
+Dataset used for dashboard development and performance analysis
 
 Final Script Dash_Management_Inventory.py
-#Optional Python automation script designed to facilitate extracting, transforming, and updating dashboard data.
+Optional Python automation script designed to facilitate extracting, transforming, and updating dashboard data.
 
 The script can be run manually or via scheduled tasks using:
 
@@ -78,9 +78,9 @@ The script can be run manually or via scheduled tasks using:
 - Command Prompt
 - Windows Terminal
 
-This method enables automated report preparation and minimizes repetitive manual tasks#
+This method enables automated report preparation and minimizes repetitive manual tasks
 
-# "Preview" #
+# *Preview* #
 <img width="887" height="543" alt="image" src="https://github.com/user-attachments/assets/27ad4b9d-c525-4089-9f10-49af325c73d8" />
 
 <img width="1363" height="573" alt="image" src="https://github.com/user-attachments/assets/67c84ed0-a545-4ca6-a680-51990ce9146f" />
